@@ -1,6 +1,6 @@
-=== Auto Post Title ===
+=== Date Post Title ===
 Contributors: GregRoss
-Plugin URI: http://toolstack.com/auto-post-title
+Plugin URI: http://toolstack.com/date-post-title
 Author URI: http://toolstack.com
 Tags: admin post title
 Requires at least: 3.5
@@ -9,13 +9,13 @@ Requires PHP: 7.0
 Stable tag: 1.0
 License: GPLv2
 
-Automatically set post titles to the publish date if no title exists.
+Sets a post title to the publish date if one does not exist when publishing a post.
 
 == Description ==
 
 If your writing a daily bog, or other site that uses the publish date for the post title, it can be a pain to manually set this for each post.
 
-Auto Post Title creates a post title based on the publish date when you publish a post immediately or in the future, if the title has not already been set.
+Date Post Title creates a post title based on the publish date when you publish a post immediately or in the future, if the title has not already been set.
 
 This code is released under the GPL v2, see license.txt for details.
 
@@ -34,6 +34,7 @@ This code is released under the GPL v2, see license.txt for details.
 1. Settings.
 
 == Changelog ==
+
 = 1.0 =
 * Release date: TBD
 * Initial release.
