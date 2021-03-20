@@ -36,7 +36,7 @@ This code is released under the GPL v2, see license.txt for details.
 == Changelog ==
 
 = 1.0 =
-* Release date: TBD
+* Release date: March 19, 2021
 * Initial release.
 
 == Upgrade Notice ==
