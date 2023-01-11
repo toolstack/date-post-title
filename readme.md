@@ -1,17 +1,17 @@
-=== Date Post Title ===
-Contributors: GregRoss
-Plugin URI: http://toolstack.com/date-post-title
-Author URI: http://toolstack.com
-Tags: admin post title
-Requires at least: 3.5
-Tested up to: 5.7
-Requires PHP: 7.0
-Stable tag: 1.0
-License: GPLv2
+# Date Post Title #
+**Contributors:** [gregross](https://profiles.wordpress.org/gregross/)  
+**Plugin URI:** http://toolstack.com/date-post-title  
+**Author URI:** http://toolstack.com  
+**Tags:** admin post title  
+**Requires at least:** 3.5  
+**Tested up to:** 5.7  
+**Requires PHP:** 7.0  
+**Stable tag:** 1.0  
+**License:** GPLv2  
 
 Sets a post title to the publish date if one does not exist when publishing a post.
 
-== Description ==
+## Description ##
 
 If your writing a daily bog, or other site that uses the publish date for the post title, it can be a pain to manually set this for each post.
 
@@ -19,30 +19,33 @@ Date Post Title creates a post title based on the publish date when you publish 
 
 This code is released under the GPL v2, see license.txt for details.
 
-== Installation ==
+## Installation ##
 
 1. Extract the archive file into your plugins directory in the smart-prev-next folder.
 2. Activate the plugin in the Plugin options.
 3. Sett the title template in the Writing setting menu.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
 * None at this time!
 
-== Screenshots ==
+## Screenshots ##
 
-1. Settings.
+### 1. Settings. ###
+![Settings.](assets/screenshot-1.png)
 
-== Changelog ==
 
-= 1.0 =
+## Changelog ##
+
+### 1.0 ###
 * Release date: March 19, 2021
 * Initial release.
 
-== Upgrade Notice ==
+## Upgrade Notice ##
 
 * None at this time!
 
-== Roadmap ==
+## Roadmap ##
 
 * None at this time!
+
